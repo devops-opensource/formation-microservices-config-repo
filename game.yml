@@ -1,6 +1,6 @@
 client:
   team:
-    uri: http://localhost:8080/api/v1/team
+    uri: http://localhost:8082/api/v1/team
 #    alias: team-api
 #    uri-instance-1: http://localhost:8080/api/v1/team1
 #    uri-instance-2: http://localhost:8080/api/v1/team2
